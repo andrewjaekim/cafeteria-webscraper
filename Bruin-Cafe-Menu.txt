@@ -1,0 +1,93 @@
+Bruin Cafe Menu
+
+~~ LUNCH SPECIAL ~~
+Build-Your-Own Avocado Toast $8.00
+Description: None
+
+~~ PIZZA ~~
+BBQ Chicken $7.25
+Description: None
+
+Formaggio Tradizionale $7.25
+Description: Mozzarella and Parmesan Cheeses with Basil atop our House-made Pomodoro Sauce
+
+Pepperoni $7.25
+Description: Large Pepperoni Slices, Grated Mozzarella & Parmesan Cheeses, and House-made Pizza Sauce on our Signature Crust
+
+Vegan Formaggio Tradizionale $7.25
+Description: Vegan mozzarella and parmesan cheeses with fresh basil, atop our housemade pomodoro sauce.
+
+~~ TOASTED SANDWICHES ~~
+BBQ Beef Brisket $8.00
+Description: Beef Brisket with BBQ Sauce and Creamy Coleslaw on a French Roll.
+
+Buffalo Chicken $8.00
+Description: None
+
+Chicken Caesar $8.00
+Description: Sliced Chicken Breast, Mozzarella Cheese, Lettuce, Tomato, and Caesar Dressing on a French Roll.
+
+Chicken Ranch & Swiss $8.00
+Description: Sliced Chicken Breast, Swiss Cheese, Lettuce, Tomato, and Ranch Dressing on a French Roll.
+
+Chipotle BBQ Turkey $8.00
+Description: Roasted Turkey Breast with Chipotle BBQ Sauce, Caramelized Onions, Spinach, and Shredded Gouda Cheese on a French Roll.
+
+Italian Sub $8.00
+Description: Mortadella, Genoa Salami, Large Sliced Pepperoni, Roma Tomatoes, Lettuce, Olde Venice Italian Dressing, and Mozzarella & Provolone Cheeses, served cold on an Artisan Baguette
+
+Pastrami & Swiss $8.00
+Description: Pastrami, Swiss Cheese, Creole Mustard, and Pickles on Rye Bread.
+
+Polpetta Italiano $8.00
+Description: Meatballs (Pork & Beef blend) in our Marinara Sauce, topped with Mozzarella, Provolone, and Parmesan Cheeses, served warm on an Italian roll
+
+Roasted Portabella Mushroom $7.00
+Description: Roasted portobello mushroom, roasted red bell peppers, pesto aioli, arugula, balsamic vinaigrette and parmesan cheese on a ficelle roll.
+
+Roasted Salmon $8.50
+Description: Roasted Salmon, Cucumbers, Shredded Radish & Carrots, Roasted Kale, Louie Sauce, and Red Wine Vinaigrette.
+
+The Cuban $8.00
+Description: Pulled Pork, Black Forest Ham, Swiss Cheese, Whole Grain Mustard-Mayo Spread, and Pickles on a French Roll.
+
+Vegan BBQ Beef $8.00
+Description: Warm Shredded Vegan Beef in BBQ Sauce, topped with Vegan Coleslaw on a Vegan Whole Wheat French Roll.
+
+~~ COLD SANDWICHES ~~
+Avocado BLT $8.00
+Description: Thick-cut Bacon, Lettuce, Tomato, Avocado, and Mayo on a French Roll.
+
+~~ TOASTED OR COLD SANDWICHES ~~
+Ham & Swiss $7.50
+Description: Black Forest Ham, Swiss Cheese, and Honey Mustard on a French Roll.
+
+Roasted Turkey & Provolone $8.00
+Description: Roasted Turkey Breast, Provolone Cheese, Lettuce, Tomato, Mayo, and Red Wine Vinaigrette on a French Roll.
+
+~~ WRAPS ~~
+BBQ Chicken $7.75
+Description: Grilled Chicken Breast with Shredded Iceberg and Romaine Lettuce, Shredded Cheddar Cheese, and Cilantro, tossed in a BBQ-Dijon Sauce.
+
+Caesar $7.50
+Description: Grilled Chicken Breast with Shredded Romaine Lettuce, Fresh Parmesan Cheese, tossed in a Caesar Dressing.
+
+Chicken Caesar $7.75
+Description: Grilled Chicken Breast, Shredded Romaine Lettuce, and Parmesan Cheese, tossed in a Caesar Dressing.
+
+~~ SALADS ~~
+Asian Chicken $8.00
+Description: Chicken Breast Strips, Sliced Almonds, Mandarin Oranges, Toasted Sesame Seeds, Green Onions, and Crispy Fried Wonton Strips atop Chopped Romaine Lettuce. Served with a side of our Toasted Sesame Dressing.
+(Prepared with Alcohol)
+
+BBQ Chicken $8.00
+Description: Chopped Romaine Lettuce topped with BBQ Chicken, Black Beans, Corn, Avocado, Bacon, Cucumber Slices, Cheddar & Jack Cheese, and Tortilla Strips, with a Chili Lime Wedge.
+
+Caesar $6.00
+Description: Shredded parmesan cheese atop chopped romaine lettuce. Served with a side of croutons and housemade caesar dressing.
+
+Chicken Caesar $7.00
+Description: Chicken Breast Strips, Shredded Parmesan Cheese, and Garlic-Herb Croutons atop Chopped Romaine Lettuce. Served with a side of our Tangy Caesar Dressing.
+
+Chicken Power Greens $8.00
+Description: Chopped Romaine topped with Rosemary Chicken, Shredded Radish & Carrot, Kale-Brussels Sprout Blend, Black Lentils, Cherry Tomatoes, and Shaved Parmesan Cheese.
